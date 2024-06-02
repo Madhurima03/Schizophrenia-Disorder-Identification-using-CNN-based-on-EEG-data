@@ -1,4 +1,7 @@
 # Training-of-EEG-Schizophrenia-Disorder-using-CNN
+![image](https://github.com/Madhurima03/Training-of-EEG-Schizophrenia-Disorder-using-CNN/assets/139050859/8ca439e8-7292-4847-9d96-4f4f6c832e4a)
+![image](https://github.com/Madhurima03/Training-of-EEG-Schizophrenia-Disorder-using-CNN/assets/139050859/1baf5074-0a59-4e67-b0b9-7b28f1d140c7)
+
 The primary objective of this project is to develop a robust and accurate Convolutional Neural Network (CNN) model to classify Electroencephalography (EEG) signals for the detection of schizophrenia . 
 
 The project has a number of distinct objectives. First, we will use used high-quality EEG dataset containing EEG data of both healthy controls and patients with a diagnosis of schizophrenia. To guarantee data quality, preprocessing methods like noise reduction and artifact removal will be used [10]. Second, specific features will be taken out of the EEG signals and fed into the CNN model. This is an important step in identifying the abnormalities and patterns that point to schizophrenia .
